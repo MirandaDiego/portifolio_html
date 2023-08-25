@@ -14,7 +14,7 @@ Aluno: Diego Miranda Duarte<br>
 </p>
 
 <p align="center">
-Você pode visualizar e interagir com a pagina do projeto <a href="" target="_blank">clicando aqui </a>
+Você pode visualizar e interagir com a pagina do projeto <a href="https://codepen.io/Diego-Miranda-the-bold/pen/NWeKGLx" target="_blank">clicando aqui </a>
 </p>
 
 <p align="center">
